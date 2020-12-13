@@ -15,5 +15,5 @@ describe('App',()=>{
         expect(text).toBeInTheDocument();
         expect(text).toBeVisible();
 
-    })
+    });
 })
